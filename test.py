@@ -7,9 +7,6 @@ import sys
 def input_num(a=int(sys.argv[1]),b=int(sys.argv[2])):
     sum=a+b
     print(sum)
+    print('Im doing a little trolling')
 
 input_num()
-
-def super_addition(a, b):
-    sum = a + b
-    print('Im doing a little trolling')
